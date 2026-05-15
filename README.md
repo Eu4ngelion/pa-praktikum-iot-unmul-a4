@@ -5,12 +5,12 @@
 ---
 
 ## 📋 Daftar Isi
-- [Deskripsi](#deskripsi)
-- [Komponen yang Digunakan](#komponen-yang-digunakan)
-- [Board Schematic](#board-schematic)
-- [Aplikasi Kodular](#aplikasi-kodular)
-- [Telegram Bot](#telegram-bot)
-- [Anggota Kelompok](#anggota-kelompok)
+- [Deskripsi](#-deskripsi)
+- [Komponen yang Digunakan](#-komponen-yang-digunakan)
+- [Board Schematic](#-board-schematic)
+- [Aplikasi Kodular](#-aplikasi-kodular)
+- [Telegram Bot](#-telegram-bot)
+- [Anggota Kelompok](#-anggota-kelompok)
 
 ---
 
