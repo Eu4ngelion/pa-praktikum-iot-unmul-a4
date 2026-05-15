@@ -18,13 +18,13 @@
 #define WIFI_PASSWORD "HP2002AU"
 
 // --- Antares ---
-#define ACCESSKEY "7cf22fe66b483e2e:cb0e6ad0fe73b5bd"
+#define ACCESSKEY "YOUR_ACCESS_KEY"
 #define PROJECT_NAME "SmartVent"
 #define DEVICE_NAME_SENSOR "Sensor"
 #define DEVICE_NAME_KONTROL "Kontrol"
 
 // --- Telegram Bot ---
-#define TELE_BOT_TOKEN "8663857367:AAG2he-TkMx0Ghz2n8bn3bpTrpX1AR8ZqIs"
+#define TELE_BOT_TOKEN "YOUR_TELE_BOT_TOKEN"
 
 // ================================================================
 // PIN HARDWARE
