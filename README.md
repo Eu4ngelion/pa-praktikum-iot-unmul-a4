@@ -77,6 +77,7 @@ Selain itu, sistem terintegrasi dengan <b>Telegram Bot</b> yang memungkinkan pen
 ---
 
 ## 📱 Aplikasi Kodular
+![KodularApp](KodularApp.png)
 [📥 Download Smart Vent APK](Smart_Vent.apk)
 
 Aplikasi Android dibangun menggunakan Kodular dan terhubung ke platform Antares via MQTT. Fitur yang tersedia:
