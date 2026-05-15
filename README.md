@@ -78,7 +78,7 @@ Selain itu, sistem terintegrasi dengan <b>Telegram Bot</b> yang memungkinkan pen
 
 ## 📱 Aplikasi Kodular
 
-![KodularApp](KodularApp.jpeg)
+<img src="KodularApp.jpeg" width="200">
 
 [📥 Download Smart Vent APK](Smart_Vent.apk)
 
